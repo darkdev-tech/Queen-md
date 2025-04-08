@@ -54,7 +54,7 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("Popkidmd$")[1];
+    const sessdata = config.SESSION_ID.split("queenmd$")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
@@ -72,7 +72,7 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`popkid using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`queen using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
@@ -85,7 +85,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "popkid whatsapp user bot" };
+                return { conversation: "queen whatsapp user bot" };
             }
         });
 
@@ -101,7 +101,7 @@ async function start() {
             Matrix.sendMessage(Matrix.user.id, { 
                 image: { url: "https://files.catbox.moe/w5xf3f.jpg" }, 
                 caption: `╭─────────────━┈⊷
-│ *ᴘᴏᴘᴋɪᴅ xᴛᴇᴄʜ*
+│ *ǫᴜᴇᴇɴ*
 ╰─────────────━┈⊷
 
 ╭─────────────━┈⊷
@@ -109,7 +109,7 @@ async function start() {
 │ *ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴜs ʙᴇʟᴏᴡ*
 ╰─────────────━┈⊷
 
-> *ᴍᴀᴅᴇ ʙʏ ᴘᴏᴘᴋɪᴅ*`
+> *ᴍᴀᴅᴇ ʙʏ ᴅᴀʀᴋᴅᴇᴠ*`
             });
                     initialConnection = false;
                 } else {
@@ -179,4 +179,3 @@ app.listen(PORT, () => {
 
 
 // updated by popkid
-
