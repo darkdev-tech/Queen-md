@@ -1,4 +1,6 @@
-<a href="https://ibb.co/kgYwn3N2"><img src="https://i.ibb.co/Gvg8wszQ/1743837507587.jpg" alt="1743837507587" border="0"></a>
+
+https://i.ibb.co/Gvg8wszQ/1743837507587.jpg
+
 
 
 # 🙂 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
