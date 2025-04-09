@@ -22,7 +22,11 @@ alt="Typing SVG" /></a>
 - <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-𝐂𝐑𝐄𝐀𝐓𝐄 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐍𝐎𝐖-rgb(224, 255, 255)?style=for-the-badge&logo=ferrari&logoColor=pink' width="240" height="38.45"/></a>
 
 # ☺️ ᴅᴇᴘʟᴏʏ ʙᴏᴛ
-- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/darkdev-tech/QUEEN-MENTOR"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-yellow?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
+
+<h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
+<p align="left">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/darkdev-tech/QUEEN-MENTOR' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+</p>
 
 # 🥹 CONTACT ME
 [![Whatsapp contact](https://img.shields.io/badge/Contact-DARK%20Dev-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254107065646)
