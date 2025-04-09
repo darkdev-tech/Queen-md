@@ -1,8 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=red&center=true&width=910&height=100&lines=JAVIEL+MD+BOT+;KEEP+LOVING+JAVIEL+MD" alt="Typing SVG" /></a>
   </p>
- 
-</a></p>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Gvg8wszQ/1743837507587.jpg" alt="IMG-20250227-WA0037" border="20"></a>
+
+<div style="text-align: center;">
+  <a href="https://ibb.co/N6NMDtn">
+    <img src="https://i.imgur.com/XlQIFIF.jpeg" alt="01" border="0"></a>
+  <hr style="margin-top: 20px; margin-bottom: 20px;">
+</div>
 
 
 # 🙂 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
