@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
   <a href="https://ibb.co/N6NMDtn">
-    <img src="https://i.imgur.com/XlQIFIF.jpeg" alt="01" border="0"></a>
+    <img src="https://i.ibb.co/BHbYb7Vy/1743837507587.jpg" alt="01" border="0"></a>
   <hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>
 
