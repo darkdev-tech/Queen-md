@@ -8,6 +8,9 @@ alt="Typing SVG" /></a>
   <hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=red&center=true&width=910&height=100&lines=FORK+AND+STAR+THIS+REPO"
+alt="Typing SVG" /></a>
+  </p>
 
 # 🙂 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
 </a></p>
