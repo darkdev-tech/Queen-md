@@ -2,7 +2,7 @@
   </p>
  
 </a></p>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Gvg8wszQ/1743837507587.jpg" alt="IMG-20250227-WA0037" border="20"></a><br 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Gvg8wszQ/1743837507587.jpg" alt="IMG-20250227-WA0037" border="20"></a>
 
 
 # 🙂 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
