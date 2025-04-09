@@ -21,7 +21,7 @@ alt="Typing SVG" /></a>
 
 <h4 align="left">1. 𝐂𝐑𝐄𝐀𝐓𝐄 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐂𝐂𝐓</h4>
 <p align="left">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-create%20account-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 # ☺️ ᴅᴇᴘʟᴏʏ ʙᴏᴛ
